@@ -1,3 +1,7 @@
+name: ayatake
+favicon: null
+layout_spectrum: 0.5615414
+typography_spectrum: 0.2689713
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9768044
-  lightness: 0.823194
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#4B4B4B'
     - '#888888'
     - '#BDBDBD'
+  brandStrength: 0.6875
+  lightness: 0.823194
+  saturation: 0.6875
   rhythmicContrast: 0.2566589
-typography_spectrum: 0.2689713
-layout_spectrum: 0.5615414
-name: ayatake
+purpose: []
